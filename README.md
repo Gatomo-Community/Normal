@@ -28,58 +28,21 @@
   </p>
 </div>
 
-# Normal
+# 😸 Normal
  Un bot sencillo y multipropósito
  
-
-# [INVITAR AL SERVER (Click aquí)](https://discord.com/oauth2/authorize?client_id=698568850651873299&scope=bot&permissions=2146823423&internal_referrer=true)
-
-
-## INFORMACIÓN
-Normal es un bot OpenSource que siempre tiene comandos nuevos. Está pensado para servers tanto pequeños como grandes.
-Está programado en [JavaScript](https://www.javascript.com/) con [Klasa.JS](https://klasa.js.org/#/) para hacer un bot estable y funcional.
+- 🤖 **Bot** [Click aquí](https://discord.com/oauth2/authorize?client_id=698568850651873299&scope=bot&permissions=2146823423&internal_referrer=true)
+- 🧣 **Top.gg** [Click aquí](https://top.gg/bot/698568850651873299)
+- 🧺 **Soporte** [Click aquí](https://discord.com/invite/ZpWE57t)
 
 
-## ¿Cómo funciona?
+## 🎎 Info
+Normal es un bot sencillo y multipropósito para Discord. Está escrito en JavaScript con ayuda del framework Klasa.
 
-El bot tiene un prefijo que al ser escrito con su comando *hace magia*🧙‍♂️🧙‍♀️
-
-Su prefijo es `n!`, pero se puede personalizar (no recomendable su personalización, temporalmente. Disculpe las molestias). 
-
-
-## ¿Quiénes lo desarrollan?
-
-Actualmente lo desarrollan Gátomo, con la ayuda de Phamzito, Lil MARCROCK y Cactus Random
-
- - [Gátomo (Creador)](https://github.com/gatomo-oficial)
- - [Phamzito (ayudante)](https://github.com/phamzito)
- - [Lil MARCROCK (ayudante)](https://github.com/MARCROCK22)
+## 📢 Anuncios
+- 🔨 Se pasará el código a Discord.js
+- 🌊 Se crearán comandos más útiles (diversión, moderación, etc.)
 
 
-## ¿Como empiezo a usarlo?
 
-Pues vamos con los puntos para empezar a usarlo
-
-1. Invita el bot a tu server
-2. Otórgale un rol administrativo
-3. Escribe el comando ``n!help`` para ayuda y un listado de comandos
-4. Ya podrás usarlo 🎉🥳
-
-## Planes
-Porfavor, visite la branch ``dev`` para más información
-
-## ¿Deseas ayudar al desarrollo?
-Si deseas ayudar a desarrollar Normal, porfavor, léete el CONTRIBUTING.md
-[Click aquí para ir al CONTRIBUTING.md](https://github.com/normal-project/Normal/blob/master/CONTRIBUTING.md)
-
-## Contactos
-
-En caso de que necesites contactar con algún dev, te dejamos los siguientes enlaces hacia sus servers de Discord. Puedes resolver dudas o sugerir ideas, pero cumple siempre las normas y habla con educación.
-
-* [Server de Soporte (Click aquí)](https://discord.gg/ZpWE57t)
-
-
-## Klasa
-- Klasa Website: [https://klasa.js.org/](https://klasa.js.org/)   
-- Klasa Core GitHub: [https://github.com/dirigeants/core](https://github.com/dirigeants/core)   
-- Klasa GitHub: [https://github.com/dirigeants/klasa](https://github.com/dirigeants/klasa)
+*Normal Bot・MIT license*
