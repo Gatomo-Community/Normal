@@ -1,6 +1,6 @@
 {
   "name": "normal",
-  "version": "0.1.0",
+  "version": "1.0",
   "description": "Un bot que siempre tiene comandos nuevos",
   "main": "normal.js",
   "dependencies": {
