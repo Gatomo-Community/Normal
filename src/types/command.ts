@@ -18,12 +18,12 @@ export type Command = {
 	usage?: string,
 	cooldown?: number,
 	guildOnly?: boolean | true
-	perms: [
-		'everyone',
-		'mod',
-		'admin',
-		'owner',
+	perms?: 
+		'everyone'|
+		'mod'|
+		'admin'|
+		'owner'|
 		'dev'
-	],
+	,
 	run: Run
 }

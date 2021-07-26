@@ -2,7 +2,8 @@
 
 // Types
 export type Config = {
-	prefix: string,
+	prefix: string | string [],
 	token: string,
-	mongoURI: string | undefined
+	mongoURI: string | undefined,
+	dev: string
 }
