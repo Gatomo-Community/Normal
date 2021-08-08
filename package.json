@@ -6,8 +6,11 @@
  "author": "Gátomo",
  "license": "MIT",
  "scripts": {
-  "production": "tsc && node dist/index.js",
-  "dev": "tsc -w && node dist/index.js"
+  "test": "tsc && node dist/index.js",
+  "eslint": "node_modules/eslint/bin/eslint.js src/** && echo ok",
+  "lint": "node_modules/eslint/bin/eslint.js src/** && echo ok",
+  "start": "node_modules/eslint/bin/eslint.js src/** && echo ok && tsc && node dist/index.js ",
+  "start-nocheck": "tsc && node dist/index.js"
  },
  "repository": {
   "type": "git",
@@ -30,8 +33,11 @@
  "homepage": "https://github.com/normal-project/Normal#readme",
  "dependencies": {
   "@types/node": "^16.4.2",
-  "discord.js": "^12.5.3",
+  "discord.js": "13.0.0",
   "dotenv": "^10.0.0",
   "mongoose": "^5.13.3"
+ },
+ "devDependencies": {
+  "eslint": "^7.32.0"
  }
 }
